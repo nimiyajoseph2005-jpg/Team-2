@@ -1,4 +1,11 @@
 # Team-2
+Team members:
+Karthika K Pillai
+Nimiya Joseph
+Joel Vincent
+Ashwin V Nair
+Akhil Surendhran
+
 # HR-AI Resume Intelligence System
 AI-powered HR Resume Intelligence System that automates resume screening using Gemini AI. The system extracts resume text, compares candidates with job requirements, generates scores and verdicts, displays analytics dashboards, and provides an AI chat interface for candidate exploration and analysis.
 
